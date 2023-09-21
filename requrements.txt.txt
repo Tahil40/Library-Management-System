@@ -1,0 +1,8 @@
+pip install --upgrade pip 
+
+pip install customtkinter
+pip install pillow
+pip install pandas  
+pip install cryptography
+pip install plyer  
+
